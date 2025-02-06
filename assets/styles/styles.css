@@ -1,0 +1,31 @@
+html {
+    background-color: #181A1B;
+    color: white;
+}
+
+header {
+    display: flex;
+    width: 100%;
+}
+
+#header-nav ul{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+header h1 {
+    margin-right: auto;
+}
+
+header nav {
+    margin-left: auto;
+}
+
+a {
+    color: #989898;
+}
